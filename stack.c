@@ -43,7 +43,7 @@ int main()
     insertend(30);
     insertend(40);
     insertend(50);
-    // insertend(60);
+    //insertend(60);
     deleteend();
     deleteend();
     deleteend();

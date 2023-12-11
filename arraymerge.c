@@ -5,7 +5,7 @@ int main()
     int arr1[5],arr2[5],temp[10], i;
     int count = 1;
 
-    for (i = 0; i < 5; i++) 
+    for (i = 0; i < 5; i++)
     {
         printf("enter array 1 [%d]: ",i);
         scanf("%d", &arr1[i]);
