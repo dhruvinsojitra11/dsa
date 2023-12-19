@@ -1,6 +1,8 @@
 // merge sort
 
 #include <stdio.h>
+#include <stdlib.h>
+
 void merge(int a[], int l, int mid, int h)
 {
     int b[50];
